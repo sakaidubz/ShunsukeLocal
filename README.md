@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shunsuke Sakai (@sakaidubz)
-- 🌱 I’m currently learning PHP, Python, Ruby etc...
+- 🌱 I’m currently learning Web application development.
 - 🔬 I'm researching antenna structure and working on a small satellite project at Uni!!
 
 <!---
